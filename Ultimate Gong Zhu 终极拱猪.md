@@ -9,4 +9,4 @@ Ultimate Gong Zhu ( 终极拱猪 ) is a java implementation of popular card game
 - Provides deal reviews that can be used for players to sharpen their game skills;
 - Can customize certain game rules to suit different players.
 
-The latest binaries can be downloaded here: http://u.pc.cd/ae5otalK
+The latest binaries can be downloaded here: http://u.pc.cd/ae5otalK or https://pan.baidu.com/s/1r914-Y_5unBJEfgBziTY4g with code "mbjp".
