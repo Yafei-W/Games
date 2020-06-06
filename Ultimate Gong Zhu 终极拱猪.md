@@ -9,6 +9,7 @@ Ultimate Gong Zhu ( 终极拱猪 ) is a java implementation of popular card game
 - Provides deal reviews that can be used for players to sharpen their game skills;
 - Can customize certain game options to suit different players.
 
-The latest binaries can be downloaded from: http://u.pc.cd/ae5otalK or https://pan.baidu.com/s/1r914-Y_5unBJEfgBziTY4g with code "mbjp".
+
+The latest binaries can be downloaded from: http://u.pc.cd/ae5otalK or https://pan.baidu.com/s/1r914-Y_5unBJEfgBziTY4g with code "mbjp".  The binaries are packaged with Oracle JRE 11. Download the zip file of your platform, unzip and run the UltimateGongZhu script under the bin folder . Once the program starts, click on top edge of the window to access a pop-up menu. Select Help, then Getting Started for instructions. 
 
 Submit issues and suggestions to https://github.com/Yafei-W/Games.
