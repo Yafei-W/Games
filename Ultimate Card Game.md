@@ -2,9 +2,9 @@
 
 The Ultimate Card Game is a general purpose card game.  It is designed to have these features:
 
-- It can be used to play many different kinds of card games as no specific game rules are enforced; 
-- It has a virtual game table that can connect up to 16 players so they can share a common card game online;
-- It can provide up to 10 full decks of cards with all card configurable;
+- It is a generic card game application that can be used to play many different kinds of card games as there is no rule restriction to any specific game;
+- Up to 16 players can connect to gather around a virtual game table so they can share a common card game live;
+- Up to 10 full decks of cards are provided with the numbers of all cards configurable;
 - It has several different card areas that can be used to suit different card games;
 - It is implemented in Java using JavaFX for graphic user interface as a balance between cross-platform compatibility and rich user experience.
 
