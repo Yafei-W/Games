@@ -8,6 +8,11 @@ The Ultimate Card Game is a general purpose card game.  It is designed to have t
 - It has several different card areas that can be used to suit different card games;
 - It is implemented in Java using JavaFX for graphic user interface as a balance between cross-platform compatibility and rich user experience.
 
-The latest binaries can be downloaded from the releases here or from http://u.pc.cd/tnVotalK or from https://pan.baidu.com/s/1W97DJslx-x6v_XWNy0dgRw with code "7iam".  The binaries are packaged with Oracle JRE 11. Download the zip file of your platform, unzip and run the UltimateCardGame script under the bin folder . Once the program starts, click on the "Menu" button to access a pop-up menu. Select "Help", then "Getting Started" and "The App" for instructions. 
+The latest binaries can be downloaded from the following locations:
+- The releases https://github.com/Yafei-W/Games/releases;
+- From pCloud at http://u.pc.cd/tnVotalK;
+- From Baidu at https://pan.baidu.com/s/1W97DJslx-x6v_XWNy0dgRw with code "7iam".
+
+The binaries are packaged with Oracle JRE 11. Download the zip file of your platform, unzip and run the UltimateCardGame script under the bin folder . Once the program starts, click on the "Menu" button to access a pop-up menu. Select "Help", then "Getting Started" and "The App" for instructions. 
 
 Submit issues and suggestions to https://github.com/Yafei-W/Games.
