@@ -9,7 +9,7 @@ Ultimate Gong Zhu ( 终极拱猪 ) is a java implementation of popular card game
 - Can customize certain game options to suit different players.
 - Is implemented in Java using JavaFX for graphic user interface as a balance between cross-platform compatibility and rich user experience;
 
-The latest binaries can be downloaded from the following locations
+The latest binaries can be downloaded from the following locations:
 
 - The releases https://github.com/Yafei-W/Games/releases;
 - From pCloud at http://u.pc.cd/ae5otalK;
