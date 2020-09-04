@@ -13,7 +13,7 @@ The latest binaries can be downloaded from the following locations:
 
 - The releases https://github.com/Yafei-W/Games/releases;
 - From pCloud at http://u.pc.cd/ae5otalK;
-- From Baidu at or https://pan.baidu.com/s/1r914-Y_5unBJEfgBziTY4g with code "mbjp".
+- From Baidu at https://pan.baidu.com/s/1r914-Y_5unBJEfgBziTY4g with code "mbjp".
 
 The binaries are packaged with Oracle JRE 11. Download the zip file of your platform, unzip and run the UltimateGongZhu script under the bin folder . Once the program starts, click on top edge of the window to access a pop-up menu. Select Help, then Getting Started for instructions. 
 
